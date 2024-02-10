@@ -1,4 +1,4 @@
-# solavisetech-automated-cicd-proj
+# solavisetech-automated-cicd-project
 
 Fully automated and secured Terraform infra pipeline.
 
@@ -6,7 +6,7 @@ Testing the webhook.....
 
 Prerequisites
 1. AWS CLI
-2. Install Terraform
+2. Install Terraform on local
 3. AWS Account
 4. AWS user with Admin permissions
 5. Preferred IDE (VSCode or Pycharm)
