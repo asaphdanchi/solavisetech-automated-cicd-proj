@@ -13,10 +13,10 @@ Prerequisites
 
 ## CICD Infra setup
 1) ###### GitHub setup
-    Fork GitHub Repository by using the existing repo "solavisetech-automated-cicd-proj" (https://github.com/abiolaemma/solavisetech-automated-cicd-proj)     
+    Fork GitHub Repository by using the existing repo "solavisetech-automated-cicd-proj" (https://github.com/asaphdanchi/solavisetech-automated-cicd-proj.git)     
     - Go to GitHub (github.com)
     - Login to your GitHub Account
-    - **Fork repository "solavisetech-automated-cicd-proj" (https://github.com/abiolaemma/solavisetech-automated-cicd-proj.git) & name it "solavisetech-automated-cicd-proj"**
+    - **Fork repository "solavisetech-automated-cicd-proj" (https://github.com/asaphdanchi/solavisetech-automated-cicd-proj.git) & name it "solavisetech-automated-cicd-proj"**
     - Clone your newly created repo to your local
 
 2) ###### Jenkins
