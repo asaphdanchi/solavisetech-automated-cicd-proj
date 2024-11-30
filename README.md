@@ -2,7 +2,7 @@
 
 Fully automated and secured Terraform infra pipeline.
 
-Testing the webhook.....
+Testing the webhook......
 
 Prerequisites
 1. AWS CLI
